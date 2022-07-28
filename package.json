@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "hellen-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Maxwelllife.github.io/team-project-HellEN",
+  "homepage": "https://GnatykOleg.github.io/hellen-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-HellEN/"
+    "build": "parcel build src/*.html --public-url /hellen-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/goitacademy/hellen-team-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/goitacademy/hellen-team-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
