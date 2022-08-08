@@ -6,8 +6,8 @@ Project created by:
 - [**Scrum master** & **Front-end developer**: Oksana Brunko](https://github.com/SXuha)
 - [**Front-end developer**: Gnatyk Oleg](https://github.com/GnatykOleg)
 - [**Front-end developer**: Aleksandr Katsinskiy](https://github.com/Katsinskiy)
-- [**Front-end developerr**: Anatolii-Vasiuk](https://github.com/Anatolii-Vasiuk)
-- [**Front-end developerr**: Vlad Shchelkunov](https://github.com/Specter-ode)
+- [**Front-end developer**: Anatolii-Vasiuk](https://github.com/Anatolii-Vasiuk)
+- [**Front-end developer**: Vlad Shchelkunov](https://github.com/Specter-ode)
 
 **Tasks**
 
