@@ -1,6 +1,10 @@
 ## Project "Hellen"
 
-Project created by:
+### The project is based on Parcel.
+
+### Using Vanilla Javascript, SCSS, HTML.
+
+### Project created by:
 
 - [**Team Lead:** Maksym Pokulytyi](https://github.com/Maxwelllife)
 - [**Scrum master** & **Front-end developer**: Oksana Brunko](https://github.com/SXuha)
@@ -9,10 +13,14 @@ Project created by:
 - [**Front-end developer**: Anatolii-Vasiuk](https://github.com/Anatolii-Vasiuk)
 - [**Front-end developer**: Vlad Shchelkunov](https://github.com/Specter-ode)
 
-**Tasks**
+## Tasks
 
-- develop a website of Complex preparation for English UPE;
-- Adaptive layout for three breakpoints 320px, 768px, 1680px
+#### - Develop a website of Complex preparation for English UPE;
 
-Link to original project in Team Lead account:
-[_View a project link_](https://github.com/Maxwelllife/team-project-HellEN)
+#### - Adaptive layout for three breakpoints 320px, 768px, 1680px
+
+#### - Develop arrow to top.
+
+#### - Develop website themes: day/night;
+
+![hellen](./src/images/hellen.jpg)
