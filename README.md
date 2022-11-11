@@ -22,5 +22,3 @@
 #### - Develop arrow to top.
 
 #### - Develop website themes: day/night;
-
-![hellen](./src/images/hellen.jpg)
